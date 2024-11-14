@@ -1,0 +1,41 @@
+<game>
+    <numberOfRounds>7</numberOfRounds>
+
+    <round>
+        <roundNumber>1</roundNumber>
+        <rules>*10</rules>
+        <points>5.1</points>
+    </round>
+
+    <round>
+        <roundNumber>2</roundNumber>
+        <rules>*10</rules>
+        <points>8.5</points>
+    </round>
+
+    <round>
+        <roundNumber>3</roundNumber>
+        <rules>H*</rules>
+        <points>7.2</points>
+    </round>
+    <round>
+        <roundNumber>4</roundNumber>
+        <rules>H*</rules>
+        <points>5.0</points>
+    </round>
+    <round>
+        <roundNumber>5</roundNumber>
+        <rules>H*</rules>
+        <points>5.0</points>
+    </round>
+    <round>
+        <roundNumber>6</roundNumber>
+        <rules>H*</rules>
+        <points>5.0</points>
+    </round>
+    <round>
+        <roundNumber>7</roundNumber>
+        <rules>H*</rules>
+        <points>5.0</points>
+    </round>
+</game>
